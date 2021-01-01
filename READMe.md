@@ -2,7 +2,7 @@
 
 Objective: To design a model which helps E commerce companies to boost their profit by judging whether users spends more time on website or mobile application.
 
-Libraries used:
+# Libraries used:
 1. Pandas 
 2. Numpy 
 3. Matplotlib 
