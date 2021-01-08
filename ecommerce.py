@@ -1,6 +1,5 @@
 #for data analysis
 import pandas as pd
-
 #for plotting the necessary graphs
 import matplotlib.pyplot as plt
 
@@ -28,7 +27,6 @@ sns.pairplot(data,x_vars=['Time on App','Time on Website'],y_vars=['Yearly Amoun
 plt.show()
 sns.pairplot(data,x_vars=['Length of Membership'],y_vars=['Yearly Amount Spent'],height=7,kind='reg')
 plt.show()
-
 
 x = data[['Avg. Session Length','Time on App','Time on Website','Length of Membership']]
 y  = data['Yearly Amount Spent']
