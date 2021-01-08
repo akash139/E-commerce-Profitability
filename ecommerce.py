@@ -1,11 +1,13 @@
-
 #for data analysis
 import pandas as pd
+
 #for plotting the necessary graphs
 import matplotlib.pyplot as plt
+
 #for linear algebra
 import numpy as np
 from sklearn.model_selection import train_test_split
+
 #regression analysis
 from sklearn.linear_model import LinearRegression
 from sklearn import metrics
