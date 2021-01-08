@@ -14,6 +14,7 @@ from sklearn import metrics
 
 #plotting graphs
 import seaborn as sns
+
 #loading and viewing dataset
 data = pd.read_csv('C:/Users/Akash/Desktop/Ecommerce Customers.csv')
 print(data.head(5))
