@@ -2,7 +2,6 @@
 
 
 
-
 # Objective: 
 To design a model which helps E commerce companies to boost their profit by judging whether users spends more time on website or mobile application.
 
