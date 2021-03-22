@@ -57,4 +57,3 @@ print('Root Mean Squared Error : ',np.sqrt(metrics.mean_squared_error(Y_test,y_p
 print('Mean Squared Error : ',metrics.mean_squared_error(Y_test,y_pred))
 print('Mean Absolute Error : ',metrics.mean_absolute_error(Y_test,y_pred))
 
-
