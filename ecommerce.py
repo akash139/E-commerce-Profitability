@@ -67,6 +67,3 @@ print('Mean Absolute Error : ',metrics.mean_absolute_error(Y_test,y_pred))
 
 
 
-
-
-
